@@ -1,0 +1,24 @@
+{
+	"files.exclude": {
+		"**/.git": true,
+		"**/.svn": true,
+		"**/.hg": true,
+		"**/CVS": true,
+		"**/.DS_Store": true,
+		"**/Thumbs.db": true,
+
+		".vercel": true,
+		".gitignore": true,
+		".prettierrc": true,
+		".env": true,
+		".env_sample": true,
+		"LICENSE": true,
+		"node_modules": true,
+
+		"vercel.json": true,
+		"Readme.md": true,
+		"Readme-bn.md": true,
+		"package.json": true,
+		"package-lock.json": true
+	}
+}

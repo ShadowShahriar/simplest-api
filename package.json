@@ -1,0 +1,33 @@
+{
+	"name": "simplest-api-ever",
+	"version": "0.0.1",
+	"description": "Demo of a simple Node.js API deployed on Vercel.",
+	"main": "src/index.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"No test specified\""
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ShadowShahriar/simplest-api.git"
+	},
+	"keywords": [
+		"nodejs",
+		"vercel",
+		"api",
+		"nodejs-api"
+	],
+	"author": "S. Shahriar <shadowshahriar@gmail.com>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/ShadowShahriar/simplest-api/issues"
+	},
+	"homepage": "https://github.com/ShadowShahriar/simplest-api#readme",
+	"engines": {
+		"node": "18.x"
+	},
+	"dependencies": {
+		"dotenv": "^16.3.1",
+		"node-fetch": "^3.3.2"
+	}
+}
