@@ -12,6 +12,6 @@
 
 <!-- links go here -->
 
-[1]: https://github.com/ShadowShahriar/simplest-api-ever
-[2]: https://github.com/ShadowShahriar/simplest-api-ever/blob/main/Readme-bn.md
+[1]: https://github.com/ShadowShahriar/simplest-api
+[2]: https://github.com/ShadowShahriar/simplest-api/blob/main/Readme-bn.md
 [3]: https://developers.google.com/books/docs/v1/using
